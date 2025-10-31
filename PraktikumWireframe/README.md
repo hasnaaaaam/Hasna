@@ -146,7 +146,7 @@ PraktikumWireframe/
 └── README.md
 ```
 
-## 🎨 Skema Warna
+## Skema Warna
 
 Aplikasi menggunakan skema warna yang segar dan menarik untuk tema minuman:
 
@@ -158,7 +158,7 @@ Aplikasi menggunakan skema warna yang segar dan menarik untuk tema minuman:
 - **Light Gray Background**: `#F9FAFB` - Background
 - **Medium Gray**: `#9CA3AF` - Text secondary
 
-## 🚀 Cara Menjalankan Aplikasi
+## Cara Menjalankan Aplikasi
 
 ### Prasyarat
 - Android Studio Arctic Fox atau lebih baru
@@ -170,7 +170,7 @@ Aplikasi menggunakan skema warna yang segar dan menarik untuk tema minuman:
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/hilmanmaulana1237/UTS_HilmanMaulana_PAM.git
+   https://github.com/aldyrialdy/MyRecyclerViewDicoding/tree/modification
    cd PraktikumWireframe
    ```
 
@@ -190,7 +190,7 @@ Aplikasi menggunakan skema warna yang segar dan menarik untuk tema minuman:
    - Klik tombol Run (▶️) atau Shift+F10
    - Aplikasi akan terinstall dan berjalan
 
-## 📦 Komponen Utama
+## Komponen Utama
 
 ### Data Classes
 
@@ -227,7 +227,7 @@ object OrderData {
 7. **AddressActivity** - Input alamat pengiriman
 8. **ConfirmActivity** - Konfirmasi pesanan berhasil
 
-## 🎯 Flow Aplikasi
+## Flow Aplikasi
 
 ```
 Splash Screen
@@ -247,7 +247,7 @@ Confirmation
 Back to Home
 ```
 
-## 💡 Fitur Khusus
+## Fitur Khusus
 
 ### 1. Dynamic Drink List
 - Menu minuman di-generate secara dinamis dari FoodData
@@ -282,12 +282,12 @@ dependencies {
 }
 ```
 
-## 👨‍💻 Pengembang
+## 👩‍💻 Developer Profile
 
-- **Nama**: Hilman Maulana
-- **Repository**: UTS_HilmanMaulana_PAM
-- **GitHub**: hilmanmaulana1237
-- **Mata Kuliah**: Pemrograman Aplikasi Mobile
+- **Nama:** Hasna Minatul Mardiah  
+- **NIM:** 1237050024  
+- **GitHub:** [hasnaaaaam](https://github.com/hasnaaaaam)  
+- **Mata Kuliah:** Pemrograman Aplikasi Mobile
 
 ## 📄 Status Build
 
@@ -295,17 +295,11 @@ dependencies {
 ✅ **All Features Working** - Semua fitur berjalan dengan baik
 ✅ **Screenshots Documented** - 7 screenshot tersedia di folder `/screenshot`
 
-## 🙏 Terima Kasih
+##  Terima Kasih
 
-Terima kasih kepada:
-- Dosen pengampu mata kuliah Pemrograman Aplikasi Mobile
-- Teman-teman yang telah membantu
-- Referensi Material Design dari Google
-
----
 
 **© 2025 Minum Yuk - Aplikasi Pemesanan Minuman Segar**
 
-*Dibuat dengan ❤️ menggunakan Kotlin & Material Design*
+*Teknologi yang digunakan Kotlin, Android Studio, & Material Design Coomponents*
 
-*Build Date: October 31, 2025*
+*Build Date: October 30, 2025*
