@@ -1,8 +1,8 @@
-# 🥤 Minum Yuk - Aplikasi Pemesanan Minuman Segar
+# Minum Yuk - Aplikasi Pemesanan Minuman Segar
 
 Aplikasi Android untuk memesan berbagai minuman segar dan nikmat dengan desain modern dan colorful yang dibuat menggunakan Kotlin dan View Binding.
 
-## 📱 Tentang Aplikasi
+## Tentang Aplikasi
 
 **Minum Yuk** adalah aplikasi mobile yang memudahkan pengguna untuk memesan berbagai minuman segar dengan antarmuka yang menarik dan user-friendly. Aplikasi ini menampilkan 12 menu minuman dengan informasi lengkap termasuk nama, deskripsi, dan harga.
 
@@ -170,7 +170,7 @@ Aplikasi menggunakan skema warna yang segar dan menarik untuk tema minuman:
 
 1. **Clone Repository**
    ```bash
-   https://github.com/aldyrialdy/MyRecyclerViewDicoding/tree/modification
+   https://github.com/hasnaaaaam/Hasna/tree/main/PraktikumWireframe
    cd PraktikumWireframe
    ```
 
